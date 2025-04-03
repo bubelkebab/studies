@@ -13,7 +13,7 @@
 - Competetive tasks where studnets aimed to achieve the best solution based on **F-score metrics**.
 
 **🏁 Final Project**
-[External repository] (https://git.wmi.amu.edu.pl/s481825/PJN-PROJEKT)\
+[External Repository](https://git.wmi.amu.edu.pl/s481825/PJN-PROJEKT)
 For the final project, we worked in a **3-person team** to develop an application that utilizes **NLP methods** as extensively as possible to solve a real-world problem.
 
 Our team created an app in Python called **"Filmosfera"**, a **movie recommendation system** 
