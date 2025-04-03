@@ -16,3 +16,7 @@ This involved:
 
 I chose to analyze the **history of Formula 1**, exploring the **big numbers** behind it and highlighting interesting events.
 For this project, I used a **comprehensive dataset** covering **laps, drivers, and more** from **1950 to 2023.**
+
+![page1](1.png)
+![page2](2.png)
+![page3](3.png)
